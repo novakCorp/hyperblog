@@ -8,5 +8,6 @@ En este curso veremos muchas cosas interesantes, cabe aclarar que todavía estoy
 - Las buenas prácticas
 - El flujo de trabajo en GitHub
 - Las locuras de Miguel y sus distintas personalidades xd
+- Creado por el increíble team Platzi
 
 # Welcome everyone!
